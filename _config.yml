@@ -1,4 +1,4 @@
-# markdown : redcarpet
-baseurl : /planets-of-the-universe
+markdown: redcarpet
+baseurl: /planets-of-the-universe
 # Allow us ignore the files insethe into de square  brackets
-exclude :  ['README.md']
+exclude:  ['README.md']
